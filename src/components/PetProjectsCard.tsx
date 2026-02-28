@@ -6,7 +6,7 @@ interface PetProjectCardProps {
   description?: string;
   imageSrc?: string;
   techTags?: string[]; 
-  children?: React.ReactNode; // extra content like features, purpose, etc.
+  children?: React.ReactNode; 
   projectLink?: string; 
 }
 

@@ -8,9 +8,9 @@ import hangmanImg from "../assets/img/Hangman.png"
 
 export const PetProjects: React.FC = () => {
   return (
-    <section id="projects" className="py-16 px-6 md:px-12 lg:px-20">
+    <section id="projects" className="py-24 px-6 md:px-12 lg:px-20">
       <header className="text-center mb-12">
-        <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+        <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
           Pet Projects
         </h2>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto">

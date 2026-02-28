@@ -44,7 +44,7 @@ export default function Contact() {
   return (
     <section id="contact" className="py-24 px-6 md:px-12 lg:px-20">
       <div className="max-w-3xl mx-auto text-center">
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-10">
+        <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-10">
           Wanna get in touch?
         </h1>
 

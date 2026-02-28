@@ -11,7 +11,7 @@ export const Home = () => {
   ]
 
   return (
-    <section className="flex flex-col items-center text-center px-6 pt-36 pb-28">
+    <section className="flex flex-col items-center text-center px-6 pt-24 pb-28">
 
       <div className="flex flex-col items-center gap-6 max-w-3xl">
 

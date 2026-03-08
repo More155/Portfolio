@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import type { JSX } from "react"
-import logo from "../assets/favicon.png"
+import logo from "../../public/favicon.png"
 import { Link, useLocation } from "react-router-dom"
 
 type SectionId = "home" | "about" | "skills" | "projects" | "contact" | "pet-projects"

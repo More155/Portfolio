@@ -2,8 +2,7 @@ import React from "react";
 import { PetProjectCard } from "../components/PetProjectsCard"
 import guesstheword from "../assets/img/Guess-The-Word.png"
 import solitaire from "../assets/img/Solitaire.png"
-import tracker from "../assets/img/Tracker.png"
-import msn from "../assets/img/MSN.png"             
+import tracker from "../assets/img/Tracker.png"           
 import hangmanImg from "../assets/img/Hangman.png"
 
 export const PetProjects: React.FC = () => {

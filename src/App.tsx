@@ -5,7 +5,7 @@ import AppRouter from './routes/AppRouter'
 
 function App() {
   return (
-    <BrowserRouter basename="/Portfolio/">
+    <BrowserRouter basename="/">
       <NavBar />
       <AppRouter />
     </BrowserRouter>
